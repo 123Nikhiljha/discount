@@ -16,6 +16,6 @@ calculate.addEventListener('click', (e)=> {
     
 });
 
-function myFunction() {
-    confirm("You want calculate");
-  }
+// function myFunction() {
+//     confirm("You want calculate");
+//   }
